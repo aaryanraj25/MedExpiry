@@ -1,32 +1,32 @@
-##Medicine Clustering Model
+Medicine Clustering Model
 
-#Overview
+Overview
 This Medicine Clustering Model uses machine learning techniques to categorize medicines into clusters based on their properties and uses. The model helps healthcare providers and researchers identify similar medicines quickly, facilitating better decision-making in treatment planning and pharmaceutical research.
 
-#Features
+Features
 Automated Clustering: Automatically groups medicines based on similarities in composition, usage, and other relevant factors.
 Scalable: Designed to handle large datasets of medicine data efficiently.
 Customizable Clusters: Allows users to define the number of clusters and clustering parameters.
 Installation
 
-#Prerequisites
+Prerequisites
 Python 3.8 or higher
 pip (Python package installer)
 
-#Libraries
+Libraries
 To install the required libraries, run the following command:
 
 
-#Copy code
+Copy code
 pip install -r requirements.txt
 
-#Setup
+Setup
 Clone the repository to your local machine:
 
 
-#Usage
+Usage
 To run the model and generate medicine clusters
 
 
-#Contributing
+Contributing
 We welcome contributions to the Medicine Clustering Model. Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
